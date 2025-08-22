@@ -23,3 +23,7 @@ Aplicaciones desarrolladas
 
 Experiencia previa
 He participado en proyectos académicos y personales donde desarrollé soluciones completas usando el stack LAMP, React y bases de datos relacionales.
+
+
+Sobre  mi
+Soy una persona que le gusta aprender constantemente además de tener entusiasmo por aprender y aportar a esta empresa
